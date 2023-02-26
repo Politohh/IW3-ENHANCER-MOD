@@ -45,7 +45,7 @@
 | --- | --- |
 | COD4 1.7 | Yes |
 | [IW3xo](https://github.com/xoxor4d/iw3xo-dev) | Yes |
-| [COD4x](https://cod4x.me/) | Yes |
+| [COD4x](https://cod4x.ovh/t/releases/24) | Yes |
 
 **[Auto IW3xo Installer by Kruumy](https://github.com/kruumy/iw3xo-one-click-installer)**
 
