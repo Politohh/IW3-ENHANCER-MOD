@@ -17,7 +17,7 @@
 </p>
 <div align="center">
   <a href="![iw3xo 2023-02-26 11-49-54](https://user-images.githubusercontent.com/105368198/221408957-ccd48622-862f-4103-9746-a985fa44bc9b.png)">
-    <img src="preview.png" alt="Preview" width="325" height="215">
+    <img src="strike" alt="Preview" width="325" height="215">
   </a>
 </div>
 <h4 align="center">Keep in mind this is still in early development and may not work for you</a></h4>
