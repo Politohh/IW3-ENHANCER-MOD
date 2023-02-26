@@ -11,6 +11,7 @@
 </div>
 <p align="center">
   <a href="#features">Features</a> •
+  <a href="#pictures">Pictures</a> •
   <a href="#support">Support</a> •
   <a href="#installation">Installation</a> •
   <a href="#credits">Credits</a>
