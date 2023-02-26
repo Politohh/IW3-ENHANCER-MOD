@@ -66,7 +66,7 @@ This mod could not have been realized without the help of :
 - **[Sheilan](https://github.com/sheilan102)**                  
   **and many other people for motivation.**                  
                   
-## Tools and softwares used
+## Tools, softwares and games used
 - **[Photoshop](https://www.adobe.com/fr/products/photoshop.html)**
 - **[Adobe After Effects CC 2019](https://www.adobe.com/fr/products/aftereffects.html)**
 - **[Paint.net](https://www.getpaint.net/)**                  
@@ -75,7 +75,13 @@ This mod could not have been realized without the help of :
 - **[Maya 2018](https://www.autodesk.com/campaigns/maya)**                   
 - **[Cod 4 Mod Tools](https://github.com/promod/CoD4-Mod-Tools)**                   
 - **[Parasyte](https://mega.nz/folder/t3IjwTya#ejz51YKryd7CujUrl8C92Q/file/VmAATTrL)**                   
-- **[Game Image Util](https://github.com/Scobalula/GameImageUtil)**                   
+- **[Game Image Util](https://github.com/Scobalula/GameImageUtil)**  
+
+- **[MW 2019]**
+- **[COD 4: MWR]**
+- **[COD MW2:CR]**
+- **[MW 2019]**
+
 ---
 
 **Please contact me if you find any bugs or have any suggestions.**
