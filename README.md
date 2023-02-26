@@ -14,7 +14,7 @@
   <a href="#pictures">Pictures</a> •
   <a href="#support">Support</a> •
   <a href="#installation">Installation</a> •
-  <a href="#credits">Credits</a>
+  <a href="#credits">Credits</a> •
   <a href="#Tools and softwares used">Tools and softwares used</a>
 </p>
 <div align="center">
