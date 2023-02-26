@@ -17,7 +17,7 @@
 </p>
 <div align="center">
   <a href="https://github.com/Polito1/IW3-ENHANCER-MOD)">
-    <img src="strike.png" alt="Preview" width="1280" height="720">
+    <img src="strike.png" alt="Preview" width="1280" height="600">
   </a>
 </div>
 <h4 align="center">Keep in mind this is still in early development and may not work for you</a></h4>
