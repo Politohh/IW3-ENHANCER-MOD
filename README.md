@@ -16,7 +16,7 @@
   <a href="#credits">Credits</a>
 </p>
 <div align="center">
-  <a href="![iw3xo 2023-02-26 11-49-54](https://user-images.githubusercontent.com/105368198/221408957-ccd48622-862f-4103-9746-a985fa44bc9b.png)">
+  <a href="https://github.com/Polito1/IW3-ENHANCER-MOD)">
     <img src="strike" alt="Preview" width="325" height="215">
   </a>
 </div>
