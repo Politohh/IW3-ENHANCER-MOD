@@ -52,16 +52,26 @@
 
 ## Credits
 
-This mod is a collection of many mods found from various sources and my own modifications:
-
-- Shout out to [pool](https://twitter.com/imopool718?s=21&t=q9WWY5n9WnWUmxNF_LifiQ) for being super helpful and making tutorials for me on porting anims and models!
-- [Menu Builder](link)
-- [Pezbots](link)
-- [Mw2 Money fx](link)
-- [Drop Gun](link)
-- [Azery Bot Mod](link)
-- [finishing later](link)
-
+This mod could not have been realized without the help of :
+                  
+**[Ody Jake ](https://youtube.com/@rawkhardt)**
+**[Xoxor](https://github.com/xoxor4d)**
+**[m0tyr](https://www.youtube.com/@m0tyr896)**                  
+**[Scobabula and his tools](https://github.com/Scobalula)**
+**[Sheilan](https://github.com/sheilan102)**                  
+**and many other people for motivation.**                  
+                 
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
 ---
 
 **Please contact me if you find any bugs or have any suggestions.**
