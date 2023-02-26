@@ -20,7 +20,7 @@
     <img src="strike.png" alt="Preview" width="1280" height="480">
   </a>
 </div>
-<h4 align="center">Keep in mind this is still in early development and may not work for you</a></h4>
+<h4 align="center">Keep in mind this is still in development.</a></h4>
 <h4 align="center">BUGS ARE EXPECTED</a></h4>
 
 ## Features
