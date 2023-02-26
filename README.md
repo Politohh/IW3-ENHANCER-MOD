@@ -54,12 +54,12 @@
 
 This mod could not have been realized without the help of :
                   
-**[Ody Jake ](https://youtube.com/@rawkhardt)**
-**[Xoxor](https://github.com/xoxor4d)**
-**[m0tyr](https://www.youtube.com/@m0tyr896)**                  
-**[Scobabula and his tools](https://github.com/Scobalula)**
-**[Sheilan](https://github.com/sheilan102)**                  
-**and many other people for motivation.**                  
+- **[Ody Jake ](https://youtube.com/@rawkhardt)**
+- **[Xoxor](https://github.com/xoxor4d)**
+- **[m0tyr](https://www.youtube.com/@m0tyr896)**                  
+- **[Scobabula and his tools](https://github.com/Scobalula)**
+- **[Sheilan](https://github.com/sheilan102)**                  
+  **and many other people for motivation.**                  
                  
                   
                   
