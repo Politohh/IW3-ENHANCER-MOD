@@ -34,6 +34,10 @@
 * Works With Old Demos
 * High quality
 
+ ## Pictures 
+ 
+  - **[Artstation Page](https://www.artstation.com/artwork/blawbg)**                                 
+                  
 ## Support
 
 | Name | Status |
@@ -54,7 +58,7 @@
 
 This mod could not have been realized without the help of :
                   
-- **[Ody Jake ](https://youtube.com/@rawkhardt)**
+- **[Ody Jake](https://youtube.com/@rawkhardt)**
 - **[Xoxor](https://github.com/xoxor4d)**
 - **[m0tyr](https://www.youtube.com/@m0tyr896)**                  
 - **[Scobabula and his tools](https://github.com/Scobalula)**
