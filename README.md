@@ -15,6 +15,7 @@
   <a href="#support">Support</a> •
   <a href="#installation">Installation</a> •
   <a href="#credits">Credits</a>
+  <a href="#Tools and softwares used">Tools and softwares used</a>
 </p>
 <div align="center">
   <a href="https://github.com/Polito1/IW3-ENHANCER-MOD)">
@@ -65,18 +66,17 @@ This mod could not have been realized without the help of :
 - **[Scobabula and his tools](https://github.com/Scobalula)**
 - **[Sheilan](https://github.com/sheilan102)**                  
   **and many other people for motivation.**                  
-                 
                   
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
+## Tools and softwares used
+- **[Photoshop](https://www.adobe.com/fr/products/photoshop.html)**
+- **[Adobe After Effects CC 2019](https://www.adobe.com/fr/products/aftereffects.html)**
+- **[Paint.net](https://www.getpaint.net/)**                  
+- **[Greyhound](https://github.com/Scobalula/Greyhound)**
+- **[C2M](https://github.com/sheilan102/C2M)** 
+- **[Maya 2018](https://www.autodesk.com/campaigns/maya)**                   
+- **[Cod 4 Mod Tools](https://github.com/promod/CoD4-Mod-Tools)**                   
+- **[Parasyte](https://mega.nz/folder/t3IjwTya#ejz51YKryd7CujUrl8C92Q/file/VmAATTrL)**                   
+- **[Game Image Util](https://github.com/Scobalula/GameImageUtil)**                   
 ---
 
 **Please contact me if you find any bugs or have any suggestions.**
