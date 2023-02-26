@@ -26,13 +26,13 @@
 
 ## Features
 
-* Replace a lot of assets/models from base game
+* Replaces a lot of assets/models from base game
 * New vehicles
 * New grass, flowers
 * New bomb briefcase + bombsite 
-* Replace all signs
+* Replaces all signs
 * New trees
-* Works With Old Demos
+* Works with old demos
 * High quality
 
  ## Pictures 
