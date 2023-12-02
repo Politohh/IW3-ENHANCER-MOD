@@ -30,7 +30,6 @@
 * New vehicles
 * New grass, flowers
 * New bomb briefcase + bombsite 
-* Replaces all signs
 * New trees
 * Works with old demos
 * High quality
@@ -54,6 +53,17 @@
 1. Download.
 2. Extract and put the mod.ff and the *.iwd* archive in your cod4 mod directory.
 3. Done!
+
+⚠️ IMPORTANT ⚠️
+If you plan on using promod demos, Those .ff files are required if you 
+are using promod demos, so the characters wont start tweakin/nodding while they switch weapons.
+
+**[Enhancer +_Promod Anim FIX Load FFs](https://github.com/Politohh/IW3-ENHANCER-MOD/releases/download/Releases/ENHANCER_+_AnimFix.zip)**
+
+fix alone is here : 
+https://discord.com/channels/254715945627549697/256850681808289793/1015382543941505074
+
+
 
 ## Credits
 
