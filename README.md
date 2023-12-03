@@ -59,9 +59,12 @@ If you plan on using promod demos, Those .ff files are required if you
 are using promod demos, so the characters wont start tweakin/nodding while they switch weapons.
 
 **[Enhancer +_Promod Anim FIX Load FFs](https://github.com/Politohh/IW3-ENHANCER-MOD/releases/download/Releases/ENHANCER_+_AnimFix.zip)**
+Drop all the .ff in COD4/zone/english
 
 I made them so they are compatible with the mod you are using, universal, not standalone.
 You better use it in a Combined Mods Scenario.
+
+
 
 fix alone is here : 
 https://discord.com/channels/254715945627549697/256850681808289793/1015382543941505074
