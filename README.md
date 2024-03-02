@@ -71,8 +71,8 @@ https://discord.com/channels/254715945627549697/256850681808289793/1015382543941
 
 You need those values inside your **config_mp.cfg**, else the playermodels will flicker.
 
-- r_buf_skinnedCacheVb 64
-- r_buf_dynamicVertexBuffer 64
+- r_buf_skinnedCacheVb 24
+- r_buf_dynamicVertexBuffer 24
 - r_Drawdecals 1
 
 ## Credits
